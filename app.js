@@ -519,10 +519,8 @@ app.get("/getFix", async (req, res) => {
     // Fetch fixes based on carId or name
     const fixes = await prisma.fix.findMany({
       where: {
-        OR: [
-          carId ? { carId } : null, // If carId exists, use it in the query
-          name ? { name } : null,  // If name exists, use it in the query
-        ].filter(Boolean), // Filter out null conditions
+        carId,
+          name  // If name exists, use it in the query
       },
     });
 
