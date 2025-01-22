@@ -877,7 +877,7 @@
     ]
   },
   "Kia": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/kiaN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/kia.png",
     "models": [
       {
         "model": "Sorento",
@@ -922,7 +922,7 @@
     ]
   },
   "Lexus": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/lexusN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/lexus.png",
     "models": [
       {
         "model": "RX",
