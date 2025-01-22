@@ -1192,7 +1192,7 @@
     ]
   },
   "Mercedes-Benz": {
-    "image": "imgs/mercedes-benzN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/mercedes-benzN.png",
     "models": [
       {
         "model": "A-Class",
