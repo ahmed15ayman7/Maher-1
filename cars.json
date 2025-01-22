@@ -93,7 +93,7 @@
     ]
   },
   "Acura": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/acuraN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/AcuraN.png",
     "models": [
       {
         "model": "MDX",
@@ -178,7 +178,7 @@
     ]
   },
   "Alfa Romeo": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/alfa-romeoN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/Alfa-RomeoN.png",
     "models": [
       {
         "model": "Giulia",
@@ -568,7 +568,7 @@
     ]
   },
   "Chevrolet": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/chevroletN.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/Chevrolet.png",
     "models": [
       {
         "model": "Blazer",
@@ -877,7 +877,7 @@
     ]
   },
   "Kia": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/kia.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/Kia.png",
     "models": [
       {
         "model": "Sorento",
@@ -922,7 +922,7 @@
     ]
   },
   "Lexus": {
-    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/lexus.png",
+    "image": "https://raw.githubusercontent.com/ZiadEldeep/Maher/refs/heads/main/imgs/Lexus.png",
     "models": [
       {
         "model": "RX",
