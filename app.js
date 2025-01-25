@@ -304,7 +304,7 @@ app.post("/fix", async (req, res) => {
     });
 
     // Respond with success
-    res.status(201).json({ message: "Fix entry saved successfully", fixEntry });
+    res.status(200).json({ message: "Fix entry saved successfully", fixEntry });
   } catch (error) {
     // Handle database and other errors
     console.error("Error saving fix entry:", error);
